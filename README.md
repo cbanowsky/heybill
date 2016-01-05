@@ -5,8 +5,11 @@ Welcome!
 This is a fork and variation of the [HEY GIRL](http://heygirl.io) Chrome Extension.  However instead of replacing all the images on the page with Ryan Gosling, all the images on the page are replaced with photos of Bill Murray.
 
 ###How To Install
+Download From Chrome Store:
+[Link To The Extension](https://chrome.google.com/webstore/detail/hey-bill/eiolimfoedapicedgmaiglcojfnccmak?utm_source=plus)
+or
 
-Clone this repo
+Clone this repo:
 
 `git clone https://github.com/cbanowsky/heybill`
 
