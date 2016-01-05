@@ -2,17 +2,24 @@ Welcome!
 ================
 
 ###About
-Sick of your Facebook friends? News getting you down?
-Hey Girl is a bookmarklet that changes every image on a webpage to one of Ryan Gosling. 
+This is a fork and variation of the [HEY GIRL](http://heygirl.io) Chrome Extension.  However instead of replacing all the images on the page with Ryan Gosling, all the images on the page are replaced with photos of Bill Murray.
 
 ###How To Install
-* Select all of the code from [the bookmarklet file](https://github.com/keccers/heygirl/blob/master/bookmarklet.js) and drag it/copy it to your bookmarks bar. 
 
-* Install the Chrome Extension by [visiting the Google Play store](https://chrome.google.com/webstore/detail/hey-girl-hey/jcpmmhaffdebnmkjelaohgjmndeongip?hl=en). 
+Clone this repo
+
+`git clone https://github.com/cbanowsky/heybill`
+
+open up Chrome and go to settings (settings can also be accessed by typing chrome://settings in the URL bar).
+
+In the left-hand menu click on 'Extensions'.  On the 'Extensions' page there is a checkbox that says 'Developer Mode'.  Make sure that is checked.
+
+Now click 'Load Unpacked Extensions' and choose the folder in this repo called chrome_extension.
+
+That is it.  Now you have Hey Bill installed and you can watch him dull up your screen.
 
 ###How To Use
-* Click the bookmarklet on any page that needs a little HEY GIRL!
+* Click the icon featuring Bill Murray on any page you want to see the images replaced in.
 
 
-
-*Made with ❤ by KCHAMP!*  
+The credit for this really goes to [Katherine Champagne](https://github.com/keccers) who created the original extension "Hey Girl".
